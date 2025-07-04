@@ -1,4 +1,10 @@
+ *{
+    margin: 0px;
+ }
 div{
     background-color: lightblue;
-    
+    width: 30%;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
 }
